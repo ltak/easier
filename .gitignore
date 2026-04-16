@@ -1,0 +1,21 @@
+.DS_Store
+
+# Codex local staging
+.codex-global-staging/
+.codex-live-repo-staging/
+.repo-codex-setup-staging/
+
+# Xcode / SwiftPM
+.build/
+DerivedData/
+*.xcworkspace/xcuserdata/
+*.xcuserdatad/
+*.xcuserstate
+
+# Node
+node_modules/
+dist/
+
+# Local env
+.env
+.env.*
